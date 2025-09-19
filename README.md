@@ -38,11 +38,6 @@ The dashboard is visually represented as shown below:
    - **Support Calls**: Number of support calls (175), with period-over-period comparison.
    - **Average Form Completion Time**: Average time to complete forms (3:52), compared to the previous period.
 
-## Insights
-
-- The funnel highlights significant customer drop-off at each stage, especially between 'Sign in/Sign up' and 'Shipping'.
-- The order completion rate is below the target, indicating potential issues in the funnel that need to be addressed.
-- KPIs show slight improvements in errors and support calls, as well as faster form completion times.
 
 ## Usage
 
