@@ -7,7 +7,7 @@ This repository contains a dashboard for analyzing customer behavior in an e-com
 
 The dashboard is visually represented as shown below:
 
-![Customer Behaviour Dashboard](./path-to-your-image.png) <!-- Update the path if needed -->
+![](Customer Behaviour Dashboard.png) 
 
 ### Key Components
 
