@@ -48,7 +48,6 @@ The dashboard is visually represented as shown below:
 
 This dashboard is intended for use by analysts, product managers, and anyone interested in optimizing the customer journey and increasing sales funnel efficiency.
 
----
 
-**Note:**  
-Replace the image path in the markdown with the actual location of your image if it is different from the placeholder.
+
+
