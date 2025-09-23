@@ -1,5 +1,4 @@
-# Sales-Funnel-Analysis
-# Customer Behaviour Dashboard
+# Sales Funnel Analysis
 
 This repository contains a dashboard for analyzing customer behavior in an e-commerce sales funnel. The dashboard provides insights into how customers interact with the sales process, where they drop off, and various performance metrics.
 
